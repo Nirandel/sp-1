@@ -81,7 +81,7 @@ Zaczynamy od sforkowania tego repozytorium.
 1. Krueger, Diana
 1. Kuleszko, Michał
 1. [Kumorczyk, Krzysztof](http://kkumorczyk.github.io/)
-1. Kuśmierczuk, Patryk
+1. [Kuśmierczuk, Patryk](http://nirandel.github.io/)
 1. Kądziela, Michał
 1. [Liwiński, Kamil] (http://panufo.github.io/)
 1. Lopeke, Michael
